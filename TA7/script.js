@@ -24,6 +24,7 @@ function getTheTitles(books) {
       titleBooks.push(book.title);
     }
     imprimirConsola(titleBooks);
+    return titleBooks;
   } else {
     console.log("El parametro ingresado no es del tipo de dato correcto.");
   }
