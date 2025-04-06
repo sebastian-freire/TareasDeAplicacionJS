@@ -1,4 +1,4 @@
-const input = document.getElementsByClassName("input")[0];
+const input = document.getElementsByClassName("input")[0]; //En algunos probe traer por la clase
 const boton = document.getElementsByClassName("boton")[0];
 const lista = document.getElementsByClassName("lista")[0];
 const botonBorrar = document.getElementsByClassName("botonborrar")[0];
